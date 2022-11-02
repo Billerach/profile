@@ -56,14 +56,13 @@ a:hover{
 
 .container{
   margin:0 auto;
-  border: 1px solid red;
 }
 
 .card-grey {
   background: rgb(32, 32, 32);
   padding: 30px;
   border: 1px solid lightgrey;
-  margin:20px;
+  margin:20px auto;
   border-radius: 10px;
 }
 
