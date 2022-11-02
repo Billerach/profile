@@ -54,6 +54,10 @@ a:hover{
   color:#CFFF8D;
 }
 
+.container{
+  margin:0 auto;
+}
+
 .card-grey {
   background: rgb(32, 32, 32);
   padding: 30px;
